@@ -5,12 +5,36 @@
     <link>https://example.com/tag/academic/</link>
       <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://example.com/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>Как прошла моя неделя 2.0</title>
+      <link>https://example.com/post/post2/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post2/</guid>
+      <description>&lt;h2 id=&#34;а-что-было-интересного&#34;&gt;А что было интересного?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Прошло несколько контрольных и с неплохими результатами, я рад))&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Временами держу пост и благодаря нему сейчас общяюсь с большим количеством знакомых и друзей, хожу в мечеть. Мне нравится весь этот движ&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Меня похвалили за приготовленную еду, хах. Когда речь идет о моей готовке, настпуает просто колесо фортуны, там либо норм, либо капец. И когда меня хвалят за еду я становлюсь супер счастливой от того, что кому-то нравится моя стрепня&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;новые-знания&#34;&gt;Новые знания&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Всегда есть место развитию, всегда можно найти нове интересности&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Как прошла моя неделя</title>
