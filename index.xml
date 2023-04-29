@@ -33,6 +33,44 @@
     </item>
     
     <item>
+      <title>Как прошла моя неделя 3.0</title>
+      <link>https://example.com/post/post4/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post4/</guid>
+      <description>&lt;h2 id=&#34;основные-события&#34;&gt;Основные события&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Закончился месяц рамадан, важный для меня месяц. Из-за учебы я смогла подержать пост только
+3 дня, и возможно я могла бы больше, но решила послушаться взрослых.
+Посетила в честь этого месяца несколько ифтаров, параллельно общалась с подругой с близкими
+из Москвы, что не может меня не радовать. Это был еще один повод улучшить связи.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Из более новых событий – пожалуй ничего конкретного) Учеба идет своим чередом, потихоньку
+стараюсь улучшать себя и свой образ жизни, соблюдать режим. Хочется добавить мои ощущения
+от весны, я ее обожаю, люблю ее за погоду (даже дождливую) и поэтому хожу вся вдохновленная.
+Надеюсь однажды великая мотивация внутри меня даст плоды в виде действий. Да, я еще тот
+яркий представитель прокрастинации..&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;новые-знания&#34;&gt;Новые знания&lt;/h2&gt;
+&lt;p&gt;Блин, наверное, узнала много нового. Так и не вспомнишь, пожалуй, порой выгодно вести
+дневники. Встретила очередного блогера, точнее блогершу. Мне нравятся ее взгляды на жизнь, и
+ее образ жизни и вправду вдохновляет меня.&lt;/p&gt;
+&lt;p&gt;О, это конечно, не новые знания, но напишу об этом сюда. Я вновь вернулась к танцам, начала их
+учить. В одной из вариаций моей жизни я преподаватель танцев со своей студией. Приходите
+есчо, если открою)&lt;/p&gt;
+&lt;p&gt;А, ну и самое любимое наряду с танцами. У меня успехи в макияже, как мне кажется. У меня
+наконец начали получаться стрелки, я учусь ярким макияжам. Это и вправду то, что мне нравится
+и то, для чего я всегда найду время. Наверное, такой и должна быть любимая работа, работа моей
+мечты. Всем желаю такой работы в будущем) С большим заработком и приносящую удовольствие
+вам (это даже важнее денег)&lt;/p&gt;
+&lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
+&lt;p&gt;На пути к лучшей версии себя, все как обычно, девачки&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Как прошла моя неделя 2.0</title>
       <link>https://example.com/post/post2/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
@@ -213,7 +251,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-231984657&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-469123758&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -223,7 +261,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-231984657&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-469123758&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -540,6 +578,182 @@ Crash --&gt; [*]
     </item>
     
     <item>
+      <title>Оформление отчета</title>
+      <link>https://example.com/post/jupyter/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/jupyter/</guid>
+      <description>&lt;p&gt;Оформление отчета в рамках курса проводитcя с помощью языка разметки Markdown.
+В начале файла вида md прописываются необходимые настройки текста и отчета в целом, его
+содержание. К примеру, размер шрифта, вид шрифта и др.
+Я расскажу конкретно об основных правилах оформления на маркдаун.&lt;/p&gt;
+&lt;h1 id=&#34;заголовки&#34;&gt;Заголовки&lt;/h1&gt;
+&lt;p&gt;Язык разметки Markdown поддерживает 2 стиля обозначения заголовков: подчеркивание и
+выделение символом («#»). Выделение заголовков с помощью подчеркивания производится
+знаками равенства («=») в случае, если заголовок первого уровня, и дефисами («-») в случае, если
+заголовок второго уровня. Количество знаков подчеркивания не ограничивается. При выделении
+заголовков с помощью символа («#») используется от одного до шести данных символов, которые
+устанавливаются в начале строки (перед заголовком).&lt;/p&gt;
+&lt;p&gt;Заголовки первого, третьего уровней, выполненные с помощью символа («#»), выглядят
+следующим образом:&lt;/p&gt;
+&lt;h1 id=&#34;заголовок-первого-уровня&#34;&gt;Заголовок первого уровня&lt;/h1&gt;
+&lt;h3 id=&#34;заголовок-третьего-уровня&#34;&gt;Заголовок третьего уровня&lt;/h3&gt;
+&lt;h1 id=&#34;цитаты&#34;&gt;Цитаты&lt;/h1&gt;
+&lt;p&gt;Для обозначения цитат в языке Markdown используется знак «больше» («&amp;gt;»). Его можно вставлять
+как перед каждой строкой цитаты, так и только перед первой строкой параграфа. Также синтаксис
+Markdown позволяет создавать вложенные цитаты (цитаты внутри цитат). Для их разметки
+используются дополнительные уровни знаков цитирования («&amp;gt;»). Цитаты в Markdown могут
+содержать всевозможные элементы разметки. Цитаты в языке Markdown выглядят следующим
+образом:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Это пример цитаты
+в которой перед каждой строкой
+ставится угловая скобка.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Вложение цитаты в цитату выглядит следующим образом:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Первый уровень цитирования&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Второй уровень цитирования&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Третий уровень цитирования&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;списки&#34;&gt;Списки&lt;/h1&gt;
+&lt;p&gt;Markdown поддерживает упорядоченные (нумерованные) и неупорядоченные (ненумерованные)
+списки. Для формирования неупорядоченный списков используются такие маркеры, как
+звездочки, плюсы и дефисы. Все перечисленные маркеры могут использоваться
+взаимозаменяемо. Для формирования упорядоченных списков в качестве маркеров используются
+числа с точкой.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Проводник&lt;/li&gt;
+&lt;li&gt;Полупроводник&lt;/li&gt;
+&lt;li&gt;Диэлектрик&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Неупорядоченные списки выглядят следующим образом:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Проводник&lt;/li&gt;
+&lt;li&gt;Полупроводник&lt;/li&gt;
+&lt;li&gt;Диэлектрик&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Или&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Проводник&lt;/li&gt;
+&lt;li&gt;Полупроводник&lt;/li&gt;
+&lt;li&gt;Диэлектрик&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Или&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Проводник&lt;/li&gt;
+&lt;li&gt;Полупроводник&lt;/li&gt;
+&lt;li&gt;Диэлектрик&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;выделение-текста&#34;&gt;Выделение текста&lt;/h1&gt;
+&lt;p&gt;Markdown воспринимает звёздочки «*» и символы подчёркивания «_» как признаки смыслового
+выделения текста&lt;/p&gt;
+&lt;p&gt;Иными словами, текст, окруженный одинарными символами, выделяется курсивным шрифтом, а
+текст, окруженный двойными символами, выделяется полужирным шрифтом. Также, выделенный
+фрагмент может находиться в любой части слова. Текст, выделенный курсивом с использованием
+синтаксиса языка Markdown, выглядит следующим образом:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Пример&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Текст, выделенный полужирным шрифтом с использованием синтаксиса языка Markdown,
+выглядит следующим образом:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Пример&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Текст, выделенный курсивным полужирным шрифтом с использованием синтаксиса языка
+Markdown выглядит следующим образом:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Пример&lt;/strong&gt;&lt;/em&gt;S&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оформление отчета</title>
+      <link>https://example.com/post/post3/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post3/</guid>
+      <description>&lt;p&gt;Оформление отчета в рамках курса проводитcя с помощью языка разметки Markdown.
+В начале файла вида md прописываются необходимые настройки текста и отчета в целом, его
+содержание. К примеру, размер шрифта, вид шрифта и др.
+Я расскажу конкретно об основных правилах оформления на маркдаун.&lt;/p&gt;
+&lt;h1 id=&#34;заголовки&#34;&gt;Заголовки&lt;/h1&gt;
+&lt;p&gt;Язык разметки Markdown поддерживает 2 стиля обозначения заголовков: подчеркивание и
+выделение символом («#»). Выделение заголовков с помощью подчеркивания производится
+знаками равенства («=») в случае, если заголовок первого уровня, и дефисами («-») в случае, если
+заголовок второго уровня. Количество знаков подчеркивания не ограничивается. При выделении
+заголовков с помощью символа («#») используется от одного до шести данных символов, которые
+устанавливаются в начале строки (перед заголовком).&lt;/p&gt;
+&lt;p&gt;Заголовки первого, третьего уровней, выполненные с помощью символа («#»), выглядят
+следующим образом:&lt;/p&gt;
+&lt;h1 id=&#34;заголовок-первого-уровня&#34;&gt;Заголовок первого уровня&lt;/h1&gt;
+&lt;h3 id=&#34;заголовок-третьего-уровня&#34;&gt;Заголовок третьего уровня&lt;/h3&gt;
+&lt;h1 id=&#34;цитаты&#34;&gt;Цитаты&lt;/h1&gt;
+&lt;p&gt;Для обозначения цитат в языке Markdown используется знак «больше» («&amp;gt;»). Его можно вставлять
+как перед каждой строкой цитаты, так и только перед первой строкой параграфа. Также синтаксис
+Markdown позволяет создавать вложенные цитаты (цитаты внутри цитат). Для их разметки
+используются дополнительные уровни знаков цитирования («&amp;gt;»). Цитаты в Markdown могут
+содержать всевозможные элементы разметки. Цитаты в языке Markdown выглядят следующим
+образом:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Это пример цитаты
+в которой перед каждой строкой
+ставится угловая скобка.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Вложение цитаты в цитату выглядит следующим образом:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Первый уровень цитирования&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Второй уровень цитирования&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Третий уровень цитирования&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;списки&#34;&gt;Списки&lt;/h1&gt;
+&lt;p&gt;Markdown поддерживает упорядоченные (нумерованные) и неупорядоченные (ненумерованные)
+списки. Для формирования неупорядоченный списков используются такие маркеры, как
+звездочки, плюсы и дефисы. Все перечисленные маркеры могут использоваться
+взаимозаменяемо. Для формирования упорядоченных списков в качестве маркеров используются
+числа с точкой.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Проводник&lt;/li&gt;
+&lt;li&gt;Полупроводник&lt;/li&gt;
+&lt;li&gt;Диэлектрик&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Неупорядоченные списки выглядят следующим образом:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Проводник&lt;/li&gt;
+&lt;li&gt;Полупроводник&lt;/li&gt;
+&lt;li&gt;Диэлектрик&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Или&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Проводник&lt;/li&gt;
+&lt;li&gt;Полупроводник&lt;/li&gt;
+&lt;li&gt;Диэлектрик&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Или&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Проводник&lt;/li&gt;
+&lt;li&gt;Полупроводник&lt;/li&gt;
+&lt;li&gt;Диэлектрик&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;выделение-текста&#34;&gt;Выделение текста&lt;/h1&gt;
+&lt;p&gt;Markdown воспринимает звёздочки «*» и символы подчёркивания «_» как признаки смыслового
+выделения текста&lt;/p&gt;
+&lt;p&gt;Иными словами, текст, окруженный одинарными символами, выделяется курсивным шрифтом, а
+текст, окруженный двойными символами, выделяется полужирным шрифтом. Также, выделенный
+фрагмент может находиться в любой части слова. Текст, выделенный курсивом с использованием
+синтаксиса языка Markdown, выглядит следующим образом:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Пример&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Текст, выделенный полужирным шрифтом с использованием синтаксиса языка Markdown,
+выглядит следующим образом:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Пример&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Текст, выделенный курсивным полужирным шрифтом с использованием синтаксиса языка
+Markdown выглядит следующим образом:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Пример&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
       <link>https://example.com/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
@@ -550,65 +764,6 @@ Crash --&gt; [*]
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://example.com/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/jupyter/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Welcome to Academic!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter lab index.ipynb
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;title: My post&amp;#39;s title
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;date: 2019-09-01
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Put any other Academic metadata here...
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
