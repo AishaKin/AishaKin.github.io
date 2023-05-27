@@ -270,7 +270,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-927416385&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-829153476&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -280,7 +280,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-927416385&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-829153476&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -478,8 +478,44 @@ Crash --&gt; [*]
   
     
     
-    &lt;tr&gt;  &lt;/tr&gt;
+    &lt;tr&gt;  &lt;th&gt;customer_id&lt;/th&gt;  &lt;th&gt;score&lt;/th&gt;  &lt;/tr&gt;
   
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;0&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;2&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;0.5&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;3&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
   
   
     &lt;caption&gt;Table 1: My results&lt;/caption&gt;
