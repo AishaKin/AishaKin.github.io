@@ -8,7 +8,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/talk/example-talk/"
+                href="https://example.com/talk/example-talk/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -22,7 +22,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/event/"
+                href="https://example.com/event/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -36,7 +36,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tag/academic/"
+                href="https://example.com/tag/academic/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -50,7 +50,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/"
+                href="https://example.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -64,7 +64,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/category/demo/"
+                href="https://example.com/category/demo/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -78,7 +78,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/"
+                href="https://example.com/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -92,7 +92,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
+                href="https://example.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -106,7 +106,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/post5/"
+                href="https://example.com/post/post5/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -120,7 +120,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/post6/"
+                href="https://example.com/post/post6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -134,7 +134,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tag/%E5%BC%80%E6%BA%90/"
+                href="https://example.com/tag/%E5%BC%80%E6%BA%90/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -148,7 +148,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/category/%E6%95%99%E7%A8%8B/"
+                href="https://example.com/category/%E6%95%99%E7%A8%8B/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -162,7 +162,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/post4/"
+                href="https://example.com/post/post4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -176,7 +176,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/post2/"
+                href="https://example.com/post/post2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -190,7 +190,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/writing-technical-content/"
+                href="https://example.com/post/writing-technical-content/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -204,7 +204,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="https://example.com/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -218,7 +218,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/getting-started/"
+                href="https://example.com/post/getting-started/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -232,7 +232,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/post3/"
+                href="https://example.com/post/post3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -246,7 +246,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/publication-type/3/"
+                href="https://example.com/publication-type/3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -260,7 +260,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/publication/preprint/"
+                href="https://example.com/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -274,7 +274,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/publication_types/"
+                href="https://example.com/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -288,7 +288,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/publication/"
+                href="https://example.com/publication/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -302,7 +302,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tag/source-themes/"
+                href="https://example.com/tag/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -316,7 +316,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/slides/"
+                href="https://example.com/slides/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -330,7 +330,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/slides/example/"
+                href="https://example.com/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -344,7 +344,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tag/deep-learning/"
+                href="https://example.com/tag/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -358,7 +358,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tag/demo/"
+                href="https://example.com/tag/demo/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -372,7 +372,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/project/example/"
+                href="https://example.com/project/example/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -386,7 +386,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/project/external-project/"
+                href="https://example.com/project/external-project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -400,7 +400,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/project/"
+                href="https://example.com/project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -414,7 +414,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/publication-type/2/"
+                href="https://example.com/publication-type/2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -428,7 +428,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/publication/journal-article/"
+                href="https://example.com/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -442,7 +442,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/publication-type/1/"
+                href="https://example.com/publication-type/1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -456,7 +456,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/publication/conference-paper/"
+                href="https://example.com/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -469,7 +469,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/admin/"
+                href="https://example.com/admin/"
                 />
     <xhtml:link
                 rel="alternate"
