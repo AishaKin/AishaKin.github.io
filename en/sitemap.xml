@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/talk/example-talk/</loc>
+    <loc>https://example.com/en/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -13,10 +13,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/talk/example-talk/"
+                href="https://example.com/en/talk/example-talk/"
                 />
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>https://example.com/en/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -27,10 +27,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/event/"
+                href="https://example.com/en/event/"
                 />
   </url><url>
-    <loc>https://example.com/tag/academic/</loc>
+    <loc>https://example.com/en/tag/academic/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -41,10 +41,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tag/academic/"
+                href="https://example.com/en/tag/academic/"
                 />
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://example.com/en/categories/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -55,10 +55,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://example.com/en/categories/"
                 />
   </url><url>
-    <loc>https://example.com/category/demo/</loc>
+    <loc>https://example.com/en/category/demo/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -69,10 +69,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/category/demo/"
+                href="https://example.com/en/category/demo/"
                 />
   </url><url>
-    <loc>https://example.com/post/post5/</loc>
+    <loc>https://example.com/en/post/post5/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -83,10 +83,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/post5/"
+                href="https://example.com/en/post/post5/"
                 />
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://example.com/en/post/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -97,10 +97,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/"
+                href="https://example.com/en/post/"
                 />
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://example.com/en/tags/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -111,10 +111,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://example.com/en/tags/"
                 />
   </url><url>
-    <loc>https://example.com/post/post6/</loc>
+    <loc>https://example.com/en/post/post6/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -125,10 +125,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/post6/"
+                href="https://example.com/en/post/post6/"
                 />
   </url><url>
-    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://example.com/en/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -139,10 +139,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tag/%E5%BC%80%E6%BA%90/"
+                href="https://example.com/en/tag/%E5%BC%80%E6%BA%90/"
                 />
   </url><url>
-    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://example.com/en/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -153,10 +153,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/category/%E6%95%99%E7%A8%8B/"
+                href="https://example.com/en/category/%E6%95%99%E7%A8%8B/"
                 />
   </url><url>
-    <loc>https://example.com/post/post4/</loc>
+    <loc>https://example.com/en/post/post4/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -167,10 +167,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/post4/"
+                href="https://example.com/en/post/post4/"
                 />
   </url><url>
-    <loc>https://example.com/post/post2/</loc>
+    <loc>https://example.com/en/post/post2/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -181,10 +181,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/post2/"
+                href="https://example.com/en/post/post2/"
                 />
   </url><url>
-    <loc>https://example.com/post/writing-technical-content/</loc>
+    <loc>https://example.com/en/post/writing-technical-content/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -195,10 +195,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/writing-technical-content/"
+                href="https://example.com/en/post/writing-technical-content/"
                 />
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://example.com/en/</loc>
     <lastmod>2023-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -209,10 +209,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://example.com/en/"
                 />
   </url><url>
-    <loc>https://example.com/post/getting-started/</loc>
+    <loc>https://example.com/en/post/getting-started/</loc>
     <lastmod>2023-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -223,10 +223,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/getting-started/"
+                href="https://example.com/en/post/getting-started/"
                 />
   </url><url>
-    <loc>https://example.com/post/post3/</loc>
+    <loc>https://example.com/en/post/post3/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -237,10 +237,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/post3/"
+                href="https://example.com/en/post/post3/"
                 />
   </url><url>
-    <loc>https://example.com/publication-type/3/</loc>
+    <loc>https://example.com/en/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -251,10 +251,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/publication-type/3/"
+                href="https://example.com/en/publication-type/3/"
                 />
   </url><url>
-    <loc>https://example.com/publication/preprint/</loc>
+    <loc>https://example.com/en/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -265,10 +265,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/publication/preprint/"
+                href="https://example.com/en/publication/preprint/"
                 />
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
+    <loc>https://example.com/en/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -279,10 +279,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/publication_types/"
+                href="https://example.com/en/publication_types/"
                 />
   </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>https://example.com/en/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -293,10 +293,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/publication/"
+                href="https://example.com/en/publication/"
                 />
   </url><url>
-    <loc>https://example.com/tag/source-themes/</loc>
+    <loc>https://example.com/en/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -307,10 +307,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tag/source-themes/"
+                href="https://example.com/en/tag/source-themes/"
                 />
   </url><url>
-    <loc>https://example.com/slides/</loc>
+    <loc>https://example.com/en/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -321,10 +321,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/slides/"
+                href="https://example.com/en/slides/"
                 />
   </url><url>
-    <loc>https://example.com/slides/example/</loc>
+    <loc>https://example.com/en/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -335,10 +335,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/slides/example/"
+                href="https://example.com/en/slides/example/"
                 />
   </url><url>
-    <loc>https://example.com/tag/deep-learning/</loc>
+    <loc>https://example.com/en/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -349,10 +349,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tag/deep-learning/"
+                href="https://example.com/en/tag/deep-learning/"
                 />
   </url><url>
-    <loc>https://example.com/tag/demo/</loc>
+    <loc>https://example.com/en/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -363,10 +363,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tag/demo/"
+                href="https://example.com/en/tag/demo/"
                 />
   </url><url>
-    <loc>https://example.com/project/example/</loc>
+    <loc>https://example.com/en/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -377,10 +377,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/project/example/"
+                href="https://example.com/en/project/example/"
                 />
   </url><url>
-    <loc>https://example.com/project/external-project/</loc>
+    <loc>https://example.com/en/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -391,10 +391,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/project/external-project/"
+                href="https://example.com/en/project/external-project/"
                 />
   </url><url>
-    <loc>https://example.com/project/</loc>
+    <loc>https://example.com/en/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -405,10 +405,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/project/"
+                href="https://example.com/en/project/"
                 />
   </url><url>
-    <loc>https://example.com/publication-type/2/</loc>
+    <loc>https://example.com/en/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -419,10 +419,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/publication-type/2/"
+                href="https://example.com/en/publication-type/2/"
                 />
   </url><url>
-    <loc>https://example.com/publication/journal-article/</loc>
+    <loc>https://example.com/en/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -433,10 +433,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/publication/journal-article/"
+                href="https://example.com/en/publication/journal-article/"
                 />
   </url><url>
-    <loc>https://example.com/publication-type/1/</loc>
+    <loc>https://example.com/en/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -447,10 +447,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/publication-type/1/"
+                href="https://example.com/en/publication-type/1/"
                 />
   </url><url>
-    <loc>https://example.com/publication/conference-paper/</loc>
+    <loc>https://example.com/en/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -461,10 +461,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/publication/conference-paper/"
+                href="https://example.com/en/publication/conference-paper/"
                 />
   </url><url>
-    <loc>https://example.com/admin/</loc>
+    <loc>https://example.com/en/admin/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -474,7 +474,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/admin/"
+                href="https://example.com/en/admin/"
                 />
   </url>
 </urlset>
