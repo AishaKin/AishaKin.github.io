@@ -2,20 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/en/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/en/"
-                />
-  </url><url>
     <loc>https://example.com/en/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -210,6 +196,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/en/post/writing-technical-content/"
+                />
+  </url><url>
+    <loc>https://example.com/en/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/"
                 />
   </url><url>
     <loc>https://example.com/en/post/getting-started/</loc>
@@ -462,6 +462,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/en/publication/conference-paper/"
+                />
+  </url><url>
+    <loc>https://example.com/en/admin/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/admin/"
                 />
   </url>
 </urlset>

@@ -463,5 +463,18 @@
                 hreflang="ru"
                 href="https://example.com/ru/publication/conference-paper/"
                 />
+  </url><url>
+    <loc>https://example.com/ru/admin/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/admin/"
+                />
   </url>
 </urlset>
